@@ -1,4 +1,3 @@
-package com.sajnu.miniprojects.studentgrade;
 
 /**
  * Encapsulates all the personal and academic data for a single student and

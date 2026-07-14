@@ -1,6 +1,4 @@
 
-package com.sajnu.miniprojects.studentgrade;
-
 import java.util.Scanner;
 
 /**
